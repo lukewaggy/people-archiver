@@ -1,0 +1,2 @@
+class ArchiverCLI:
+    pass
