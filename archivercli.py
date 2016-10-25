@@ -1,5 +1,4 @@
 from listgetter import ListGetter
-from listhandler import ListHandler
 from newapplicant import NewApplicant
 from viewapplicant import ViewApplicant
 from removeapplicant import RemoveApplicant
