@@ -3,5 +3,8 @@ from newapplicant import NewApplicant
 from viewapplicant import ViewApplicant
 from removeapplicant import RemoveApplicant
 
-class ArchiverCLI:
-    print "Hi, this is the people archiver, please type 'new', 'view', or 'remove'."
+def start():
+    command = input("Hi, this is the people archiver, please type 'new', 'view', or 'remove': ")
+    print(command)
+
+start()

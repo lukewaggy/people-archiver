@@ -1,2 +1,3 @@
 class NewApplicant:
+    pass
     
