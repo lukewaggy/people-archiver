@@ -10,7 +10,7 @@ def start():
         userInput = input("Please type 'new', 'view', or 'remove': ")
         for cmd in commands:
             if cmd.name == userInput:
-                #x.execute()
+                #cmd.execute()
                 print("grats")
         
 
